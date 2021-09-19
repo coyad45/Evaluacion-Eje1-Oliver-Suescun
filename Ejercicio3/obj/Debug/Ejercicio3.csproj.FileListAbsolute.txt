@@ -1,0 +1,7 @@
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache

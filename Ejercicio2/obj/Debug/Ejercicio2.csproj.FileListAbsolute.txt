@@ -1,0 +1,7 @@
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\coyad\source\repos\OliverSuescun\Ejercicio2\obj\Debug\Ejercicio2.pdb
